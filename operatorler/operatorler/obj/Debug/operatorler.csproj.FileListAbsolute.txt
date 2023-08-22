@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\bin\Debug\operatorler.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\bin\Debug\operatorler.exe
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\bin\Debug\operatorler.pdb
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\obj\Debug\operatorler.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\obj\Debug\operatorler.exe
+C:\Users\aytek\OneDrive\Masaüstü\C#\operatorler\operatorler\obj\Debug\operatorler.pdb
